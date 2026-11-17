@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ihouse-corp/maru-japan-hands",
+  "description": "Human services in Japan for AI agents: phone calls, reservations, shopping and on-site checks.",
+  "title": "MARU Japan Hands",
+  "version": "0.1.0",
+  "websiteUrl": "https://hands.senpinai.com/",
+  "repository": {
+    "url": "https://github.com/ihouse-corp/maru-japan-hands",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://maru.senpinai.com/mcp"
+    }
+  ]
+}

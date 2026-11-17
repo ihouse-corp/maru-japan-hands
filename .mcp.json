@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maru-japan-hands": {
+      "type": "http",
+      "url": "https://maru.senpinai.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "maru-japan-hands",
+  "version": "0.1.0",
+  "mcpServers": {
+    "maru-japan-hands": {
+      "httpUrl": "https://maru.senpinai.com/mcp"
+    }
+  }
+}
